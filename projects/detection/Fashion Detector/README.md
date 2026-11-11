@@ -144,3 +144,7 @@ We also provide a [notebook](fashion_detector_tutorial.ipynb) to play with this 
 
 Note:
 - The default dataset configuration is loading ATR segmentation for street images and loading the provided segmentation for VITON-HD. If you need either in different format, you can change the `segm_dir` or `garment_segm_dir` in the corresponding ``.yaml`` config file with your new datapath.
+
+## R43-T035 teaching check
+
+The isolated [course check](course-checks/r43-t035/README.md) uses a synthetic fixture to verify a data or pipeline contract. Its results do not measure the real project dataset.
