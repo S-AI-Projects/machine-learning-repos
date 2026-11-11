@@ -34,3 +34,7 @@ Implementing the YOLO model in a real-time system, such as live video streams, c
 
 **Improved Data Augmentation:**
 Data augmentation techniques like image rotation, flipping, and cropping could be applied to the training set to increase the model’s robustness to variations in lighting, angles, and object positions.
+
+## R43-T019: Record-order robustness check
+
+The synthetic offline robustness check is documented in [course-checks/r43-t019/README.md](course-checks/r43-t019/README.md).
