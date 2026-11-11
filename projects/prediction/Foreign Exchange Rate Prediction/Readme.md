@@ -2,3 +2,7 @@ Integrate a Foreign Exchange (Forex) Rate Prediction model into the project. Thi
 
 Use Case
 In real-life applications, the Foreign Exchange Rate Prediction model can significantly benefit financial institutions, traders, and businesses engaged in international trade. Accurate predictions of Forex rates enable traders to make informed decisions, reducing risks and maximizing profits. For financial institutions, such predictions can aid in managing foreign currency reserves and optimizing transaction costs. Businesses involved in import/export activities can use the predictions to plan better and hedge against currency risks, ensuring more stable financial operations. Integrating this feature allows users to leverage advanced predictive analytics, enhancing decision-making and strategic planning in the volatile Forex market.
+
+## R43-T040 teaching check
+
+The isolated [course check](course-checks/r43-t040/README.md) uses a synthetic fixture to verify a data or pipeline contract. Its results do not measure the real project dataset.
