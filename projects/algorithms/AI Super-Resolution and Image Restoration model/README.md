@@ -20,3 +20,6 @@ This project aims to develop an **AI-Powered Image Restoration Tool** that revit
 - **GitHub**: [Peart-Guy](https://github.com/Peart-Guy)
 - **LinkedIn**: [Ankan Mukhopadhyay](https://www.linkedin.com/in/ankan-mukhopadhyaypeartguy/)
 
+## R43-T015: Explicit image preprocessing
+
+The synthetic preprocessing check is documented in [course-checks/r43-t015/README.md](course-checks/r43-t015/README.md).

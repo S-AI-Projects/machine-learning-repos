@@ -1,0 +1,12 @@
+{
+  "description": "Synthetic CPU smoke fixture; not the named real dataset.",
+  "split_seed": 43,
+  "records": [
+    {"record_id": "r1", "group_id": "group-train", "split": "train", "label": 0, "pixels": [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]},
+    {"record_id": "r2", "group_id": "group-train", "split": "train", "label": 1, "pixels": [[255,0,0,0],[0,255,0,0],[0,0,255,0],[0,0,0,255]]},
+    {"record_id": "r3", "group_id": "group-validation", "split": "validation", "label": 0, "pixels": [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]},
+    {"record_id": "r4", "group_id": "group-validation", "split": "validation", "label": 1, "pixels": [[255,0,0,0],[0,255,0,0],[0,0,255,0],[0,0,0,255]]},
+    {"record_id": "r5", "group_id": "group-test", "split": "test", "label": 0, "pixels": [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]},
+    {"record_id": "r6", "group_id": "group-test", "split": "test", "label": 1, "pixels": [[255,0,0,0],[0,255,0,0],[0,0,255,0],[0,0,0,255]]}
+  ]
+}
