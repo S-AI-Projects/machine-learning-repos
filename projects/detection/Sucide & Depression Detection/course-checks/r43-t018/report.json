@@ -1,0 +1,30 @@
+{
+  "data_status": "synthetic pipeline verification only",
+  "by_split": {
+    "test": {
+      "errors": 0,
+      "total": 2
+    },
+    "train": {
+      "errors": 0,
+      "total": 4
+    },
+    "validation": {
+      "errors": 1,
+      "total": 2
+    }
+  },
+  "counts": {
+    "correct": 7,
+    "errors": 1,
+    "total": 8
+  },
+  "errors": [
+    {
+      "expected": 1,
+      "predicted": 0,
+      "reason_category": "threshold_boundary_case",
+      "record_id": "r6"
+    }
+  ]
+}

@@ -54,3 +54,7 @@ The GRU model was the best-fitted model for this dataset, achieving the highest 
 ## ✒️ Contributor
 - Name: Patamsetti Sree Vidya
 - Github: https://github.com/sreevidya-16
+
+## R43-T018: Synthetic error analysis
+
+The offline error-report check is documented in [course-checks/r43-t018/README.md](course-checks/r43-t018/README.md).
