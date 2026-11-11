@@ -119,3 +119,7 @@ RMSE is the standard deviation,which indicated the difference between real and p
 
 # CONCLUSION AND FUTURE PLANS 
 In this project, we introduce a convolutional neural network-based approach to predict asthma development risk. By leveraging basic PM and weather data, we forecast PEFR readings. Through unbiased evaluations, we observe significant performance improvements with our proposed method. This model employs sensors, an edge device, and an IoT platform. It offers an accurate means of forecasting asthma likelihood, providing individuals the ability to monitor their condition anytime, anywhere. Our future plans involve product development and the creation of a mobile application. This app will collect user data such as height, weight, age, and sex, while the product itself monitors environmental conditions. Its portability ensures easy accessibility for asthma risk assessment regardless of location or time. Hence, this tool presents a highly effective solution for asthma risk monitoring.
+
+## R43-T031 teaching check
+
+The isolated [course check](course-checks/r43-t031/README.md) uses a synthetic fixture to verify a data or pipeline contract. Its results do not measure the real project dataset.
