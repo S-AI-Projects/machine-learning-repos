@@ -1,0 +1,15 @@
+{
+  "predictions": {
+    "r1": 0,
+    "r2": 0,
+    "r3": 0,
+    "r4": 0,
+    "r5": 1,
+    "r6": 0,
+    "r7": 1,
+    "r8": 1
+  },
+  "reason_categories": {
+    "r6": "threshold_boundary_case"
+  }
+}
