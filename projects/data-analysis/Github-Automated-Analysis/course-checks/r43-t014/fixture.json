@@ -1,0 +1,18 @@
+{
+  "synthetic": true,
+  "records": [
+    {"record_id": "row-001", "group_id": "group-001", "x1": 0, "x2": 1, "label": 0},
+    {"record_id": "row-002", "group_id": "group-002", "x1": 1, "x2": 1, "label": 0},
+    {"record_id": "row-003", "group_id": "group-003", "x1": 2, "x2": 1, "label": 0},
+    {"record_id": "row-004", "group_id": "group-004", "x1": 3, "x2": 1, "label": 0},
+    {"record_id": "row-005", "group_id": "group-005", "x1": 4, "x2": 1, "label": 1},
+    {"record_id": "row-006", "group_id": "group-006", "x1": 5, "x2": 1, "label": 1},
+    {"record_id": "row-007", "group_id": "group-007", "x1": 6, "x2": 1, "label": 1},
+    {"record_id": "row-008", "group_id": "group-008", "x1": 7, "x2": 1, "label": 1}
+  ],
+  "splits": {
+    "train": ["row-001", "row-003", "row-005", "row-007"],
+    "validation": ["row-002", "row-006"],
+    "test": ["row-004", "row-008"]
+  }
+}
