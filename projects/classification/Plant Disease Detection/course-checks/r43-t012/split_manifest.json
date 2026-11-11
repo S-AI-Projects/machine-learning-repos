@@ -1,0 +1,21 @@
+{
+  "seed": 43,
+  "strategy": "stratified_group",
+  "time_field": null,
+  "splits": {
+    "train": [
+      "PD003",
+      "PD004",
+      "PD007",
+      "PD005"
+    ],
+    "validation": [
+      "PD002",
+      "PD006"
+    ],
+    "test": [
+      "PD001",
+      "PD008"
+    ]
+  }
+}
