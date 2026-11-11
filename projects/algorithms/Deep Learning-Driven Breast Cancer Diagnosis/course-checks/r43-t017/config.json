@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "seed": 17,
+  "feature_order": [
+    "x1",
+    "x2"
+  ],
+  "split_ids": {
+    "train": [
+      "r1",
+      "r3",
+      "r5",
+      "r7"
+    ],
+    "validation": [
+      "r2",
+      "r6"
+    ],
+    "test": [
+      "r4",
+      "r8"
+    ]
+  },
+  "algorithm": {
+    "name": "threshold",
+    "threshold": 3.5,
+    "positive_label": 1,
+    "negative_label": 0
+  }
+}
