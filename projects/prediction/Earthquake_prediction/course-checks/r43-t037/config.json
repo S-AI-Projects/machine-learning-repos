@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "seed": 43,
+  "features": ["x1", "x2"],
+  "split": {"train": ["r0", "r1", "r4", "r5"], "validation": ["r2", "r6"], "test": ["r3", "r7"]},
+  "algorithm": {"kind": "threshold", "feature": "x1", "cutoff": 4}
+}
