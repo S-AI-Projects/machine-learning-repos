@@ -1,0 +1,22 @@
+{
+  "description": "Data contract for the R43-T011 synthetic pipeline fixture.",
+  "record": {
+    "record_id": {
+      "type": "string",
+      "required": true,
+      "non_empty": true,
+      "unique": true
+    },
+    "text": {
+      "type": "string",
+      "required": true,
+      "non_empty": true
+    },
+    "label": {
+      "type": "integer",
+      "required": true,
+      "allowed_values": [0, 1]
+    }
+  },
+  "additional_fields": false
+}
