@@ -52,7 +52,6 @@ After importing ResNet50 Model, we compile our model with optimizers.RMSprop for
 
 Sourik Das
 
+## R43-T033 teaching check
 
-
-
-
+The isolated [course check](course-checks/r43-t033/README.md) uses a synthetic fixture to verify a data or pipeline contract. Its results do not measure the real project dataset.
