@@ -75,3 +75,7 @@ The model is evaluated on a separate test set to measure its accuracy and other 
 
 ## Results
 The model achieves an accuracy of approximately 90% on the test set. The training and validation accuracy and loss curves are plotted to visualize the model's performance.
+## Course check: R43-T012
+
+See the [deterministic split manifest check](course-checks/r43-t012/README.md)
+for the synthetic fixture, leakage-aware split pipeline, and offline tests.
