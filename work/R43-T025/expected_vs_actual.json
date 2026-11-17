@@ -1,0 +1,30 @@
+{
+  "params": {
+    "x1": {
+      "min": 0.0,
+      "max": 5.0,
+      "scale": 5.0
+    },
+    "x2": {
+      "min": 1.0,
+      "max": 1.0,
+      "scale": 1.0
+    }
+  },
+  "transformed_train_shape": [
+    4,
+    2
+  ],
+  "transformed_test_shape": [
+    4,
+    2
+  ],
+  "first_train_row": [
+    0.0,
+    0.0
+  ],
+  "first_test_row": [
+    0.4,
+    0.0
+  ]
+}
