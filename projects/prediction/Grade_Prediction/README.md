@@ -18,3 +18,8 @@ To install the necessary packages, run:
 
 ```bash
 pip install pandas scikit-learn matplotlib
+```
+
+## Course Checks
+- [R43-T021 Data Contract Validation](course-checks/r43-t021/README.md): Schema validation and synthetic classification fixture checks.
+

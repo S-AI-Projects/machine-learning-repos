@@ -1,0 +1,8 @@
+{
+  "valid_fixture": {
+    "expected_valid": true,
+    "actual_valid": true,
+    "expected_error_count": 0,
+    "actual_error_count": 0
+  }
+}
