@@ -1,0 +1,9 @@
+test_fit_uses_only_training_data (test_pipeline.TestMajorityClassBaseline.test_fit_uses_only_training_data) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestMajorityClassBaseline.test_fixture_exact_dimensions_and_labels) ... ok
+test_held_out_evaluation_metric (test_pipeline.TestMajorityClassBaseline.test_held_out_evaluation_metric) ... ok
+test_prediction_without_fit_raises (test_pipeline.TestMajorityClassBaseline.test_prediction_without_fit_raises) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK

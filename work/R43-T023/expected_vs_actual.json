@@ -1,0 +1,13 @@
+{
+  "evaluation": {
+    "baseline_strategy": "majority_class",
+    "majority_class": 0,
+    "train_sample_count": 5,
+    "eval_sample_count": 3,
+    "accuracy": 0.3333333333333333,
+    "correct_predictions": 1,
+    "notice": "Pipeline verification metric on synthetic data; no real-world accuracy claimed."
+  },
+  "expected_majority_class": 0,
+  "actual_majority_class": 0
+}
