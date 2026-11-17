@@ -1,0 +1,14 @@
+{
+  "description": "Synthetic classification fixture for split leakage prevention (not real dataset observations)",
+  "schema": ["record_id", "group_id", "timestamp", "x1", "x2", "label"],
+  "records": [
+    {"record_id": "rec_0", "group_id": "grp_0", "timestamp": "2026-01-01T00:00:00Z", "x1": 0.0, "x2": 1.0, "label": 0},
+    {"record_id": "rec_1", "group_id": "grp_0", "timestamp": "2026-01-02T00:00:00Z", "x1": 1.0, "x2": 1.0, "label": 0},
+    {"record_id": "rec_2", "group_id": "grp_1", "timestamp": "2026-01-03T00:00:00Z", "x1": 2.0, "x2": 1.0, "label": 0},
+    {"record_id": "rec_3", "group_id": "grp_1", "timestamp": "2026-01-04T00:00:00Z", "x1": 3.0, "x2": 1.0, "label": 0},
+    {"record_id": "rec_4", "group_id": "grp_2", "timestamp": "2026-01-05T00:00:00Z", "x1": 4.0, "x2": 1.0, "label": 1},
+    {"record_id": "rec_5", "group_id": "grp_2", "timestamp": "2026-01-06T00:00:00Z", "x1": 5.0, "x2": 1.0, "label": 1},
+    {"record_id": "rec_6", "group_id": "grp_3", "timestamp": "2026-01-07T00:00:00Z", "x1": 6.0, "x2": 1.0, "label": 1},
+    {"record_id": "rec_7", "group_id": "grp_3", "timestamp": "2026-01-08T00:00:00Z", "x1": 7.0, "x2": 1.0, "label": 1}
+  ]
+}

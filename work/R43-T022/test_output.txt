@@ -1,0 +1,11 @@
+test_deterministic_reproducibility (test_pipeline.TestSplitLeakagePrevention.test_deterministic_reproducibility) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestSplitLeakagePrevention.test_fixture_exact_dimensions_and_labels) ... ok
+test_group_isolation_leakage_rejected (test_pipeline.TestSplitLeakagePrevention.test_group_isolation_leakage_rejected) ... ok
+test_overlapping_ids_rejected (test_pipeline.TestSplitLeakagePrevention.test_overlapping_ids_rejected) ... ok
+test_splits_are_strictly_disjoint (test_pipeline.TestSplitLeakagePrevention.test_splits_are_strictly_disjoint) ... ok
+test_time_series_chronological_ordering (test_pipeline.TestSplitLeakagePrevention.test_time_series_chronological_ordering) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
