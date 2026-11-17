@@ -1,0 +1,3 @@
+R43-T007 pipeline verification results
+Config round-trip: OK. Predictions reproducible after reload.
+Data: synthetic. Python: standard library only.
