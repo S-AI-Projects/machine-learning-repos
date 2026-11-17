@@ -1,0 +1,3 @@
+R43-T009 pipeline verification results
+Record-order permutation preserves predictions after ID alignment. Missing field raises ValueError.
+Data: synthetic. Python: standard library only.
