@@ -1,0 +1,24 @@
+{
+  "training_summary": {
+    "model_type": "Deterministic CPU Linear Smoke Baseline",
+    "device": "cpu",
+    "samples_processed": 4,
+    "step_count": 4,
+    "final_step_loss": 0.5198031992823816,
+    "average_loss": 0.6693722972598602,
+    "weights": [
+      0.18674664566735333,
+      -0.001661716695572843
+    ],
+    "bias": -0.001661716695572843,
+    "notice": "CPU smoke run for interface correctness verification; does not claim useful real-world accuracy."
+  },
+  "test_predictions": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "expected_prediction_count": 4,
+  "actual_prediction_count": 4
+}

@@ -75,6 +75,9 @@ Less Data Required: Transfer learning is particularly effective when you have li
 
 The notebook includes code to visualize the training process and compare the performance of the models. Performance metrics such as accuracy and loss are plotted to provide insights into how well the models are learning and generalizing.
 
+## Course Checks
+- [R43-T026 Bounded CPU Smoke Run](course-checks/r43-t026/README.md): Lightweight, deterministic CPU smoke test and interface verification.
+
 ## Conclusion
 
 This project demonstrates the power of transfer learning using pre-trained models like VGG16 for image classification and feature extraction. By leveraging the knowledge from large datasets, we can achieve better performance with less data and reduced training time. The detailed Jupyter notebook provides an interactive learning experience, helping users understand and implement these advanced techniques in their projects.
