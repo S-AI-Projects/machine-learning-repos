@@ -75,3 +75,7 @@ SVM - 96%
 RandomForestClassifier - 93.058%
 
 LogisticRegression - 95%
+
+## Course Checks
+- [R43-T027 Reproducible Configuration](course-checks/r43-t027/README.md): Serializable configuration management, schema validation, and prediction reconstruction checks.
+
