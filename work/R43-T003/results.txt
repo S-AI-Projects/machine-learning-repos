@@ -1,0 +1,3 @@
+R43-T003 pipeline verification results
+Majority-class baseline on 6 synthetic images. Pipeline verification only.
+Python: standard library only.
