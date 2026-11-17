@@ -1,0 +1,23 @@
+{
+  "original_order_predictions": {
+    "rec_0": 0,
+    "rec_1": 0,
+    "rec_2": 0,
+    "rec_3": 0,
+    "rec_4": 1,
+    "rec_5": 1,
+    "rec_6": 1,
+    "rec_7": 1
+  },
+  "reversed_order_predictions": {
+    "rec_7": 1,
+    "rec_6": 1,
+    "rec_5": 1,
+    "rec_4": 1,
+    "rec_3": 0,
+    "rec_2": 0,
+    "rec_1": 0,
+    "rec_0": 0
+  },
+  "id_aligned_match": true
+}

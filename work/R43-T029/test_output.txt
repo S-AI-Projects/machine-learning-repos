@@ -1,0 +1,9 @@
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestInputPerturbation.test_fixture_exact_dimensions_and_labels) ... ok
+test_record_order_permutation_preserves_predictions_after_id_alignment (test_pipeline.TestInputPerturbation.test_record_order_permutation_preserves_predictions_after_id_alignment) ... ok
+test_unsupported_input_explicit_fallback_mapping (test_pipeline.TestInputPerturbation.test_unsupported_input_explicit_fallback_mapping) ... ok
+test_unsupported_missing_field_rejected (test_pipeline.TestInputPerturbation.test_unsupported_missing_field_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
