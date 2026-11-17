@@ -1,0 +1,3 @@
+R43-T006 pipeline verification results
+Smoke run: 4 train, 2 test. Bounded at 20 steps. Finite outputs. Pipeline verification only.
+Python: standard library only.
