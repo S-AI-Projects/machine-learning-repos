@@ -1,0 +1,3 @@
+R43-T008 pipeline verification results
+Error report: injected wrong prediction detected. Aggregate counts match detail rows.
+Data: synthetic. Python: standard library only.
