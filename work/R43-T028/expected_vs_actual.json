@@ -1,0 +1,23 @@
+{
+  "report_summary": {
+    "total_samples": 8,
+    "correct_count": 7,
+    "error_count": 1,
+    "error_rate": 0.125,
+    "reason_summary": {
+      "False Negative: Underprediction near decision boundary": 1
+    },
+    "error_rows": [
+      {
+        "record_id": "rec_6",
+        "expected": 1,
+        "predicted": 0,
+        "reason_category": "False Negative: Underprediction near decision boundary"
+      }
+    ],
+    "notice": "Error report generated for pipeline monitoring verification; simulated data only."
+  },
+  "injected_error_detected": true,
+  "expected_error_count": 1,
+  "actual_error_count": 1
+}

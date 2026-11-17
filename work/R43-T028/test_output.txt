@@ -1,0 +1,10 @@
+test_aggregate_error_counts_match_detailed_rows (test_pipeline.TestErrorAnalysisMonitoring.test_aggregate_error_counts_match_detailed_rows) ... ok
+test_clean_predictions_have_zero_errors (test_pipeline.TestErrorAnalysisMonitoring.test_clean_predictions_have_zero_errors) ... ok
+test_correct_predictions_excluded_from_error_rows (test_pipeline.TestErrorAnalysisMonitoring.test_correct_predictions_excluded_from_error_rows) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestErrorAnalysisMonitoring.test_fixture_exact_dimensions_and_labels) ... ok
+test_injected_error_appears_in_report (test_pipeline.TestErrorAnalysisMonitoring.test_injected_error_appears_in_report) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
