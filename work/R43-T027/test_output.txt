@@ -1,0 +1,11 @@
+test_environment_versions_recorded (test_pipeline.TestReproducibleConfiguration.test_environment_versions_recorded) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestReproducibleConfiguration.test_fixture_exact_dimensions_and_labels) ... ok
+test_reject_contradictory_split_settings (test_pipeline.TestReproducibleConfiguration.test_reject_contradictory_split_settings) ... ok
+test_reject_incompatible_input_shape (test_pipeline.TestReproducibleConfiguration.test_reject_incompatible_input_shape) ... ok
+test_reject_unknown_configuration_field (test_pipeline.TestReproducibleConfiguration.test_reject_unknown_configuration_field) ... ok
+test_serialization_roundtrip_reconstructs_identical_predictions (test_pipeline.TestReproducibleConfiguration.test_serialization_roundtrip_reconstructs_identical_predictions) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.010s
+
+OK

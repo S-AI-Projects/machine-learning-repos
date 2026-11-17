@@ -1,0 +1,53 @@
+{
+  "config": {
+    "schema_version": "1.0.0",
+    "seed": 42,
+    "feature_ordering": [
+      "x1",
+      "x2"
+    ],
+    "split_ids": {
+      "train": [
+        "rec_0",
+        "rec_1",
+        "rec_4",
+        "rec_5"
+      ],
+      "test": [
+        "rec_2",
+        "rec_3",
+        "rec_6",
+        "rec_7"
+      ]
+    },
+    "algorithm_settings": {
+      "algorithm": "linear_threshold",
+      "threshold": 3.5
+    },
+    "environment_metadata": {
+      "python_version": "3.15.2",
+      "platform": "macOS-27.2.1-arm64-arm-64bit-Mach-O"
+    }
+  },
+  "predictions": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1
+  ],
+  "expected_predictions": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1
+  ],
+  "is_match": true
+}
