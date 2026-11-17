@@ -1,0 +1,3 @@
+R43-T005 pipeline verification results
+MinMaxScaler fitted on train only. Missing values raise ValueError. Pipeline verification only.
+Python: standard library only.
