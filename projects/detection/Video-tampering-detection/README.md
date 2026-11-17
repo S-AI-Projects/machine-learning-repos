@@ -62,6 +62,9 @@ cd Detection Models/Video-tampering-detection
   To stop the Streamlit app, press `CTRL + C` in the terminal.
 
 
+## Course Checks
+- [R43-T023 Minimal Baseline Comparison](course-checks/r43-t023/README.md): Majority-class baseline implementation and verification check.
+
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
 
