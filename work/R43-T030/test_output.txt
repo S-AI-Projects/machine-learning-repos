@@ -1,0 +1,9 @@
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestSavedPipelineInterface.test_fixture_exact_dimensions_and_labels) ... ok
+test_inference_schema_validation (test_pipeline.TestSavedPipelineInterface.test_inference_schema_validation) ... ok
+test_save_and_reload_predictions_agree_within_tolerance (test_pipeline.TestSavedPipelineInterface.test_save_and_reload_predictions_agree_within_tolerance) ... ok
+test_schema_and_version_mismatch_fails_clearly (test_pipeline.TestSavedPipelineInterface.test_schema_and_version_mismatch_fails_clearly) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
