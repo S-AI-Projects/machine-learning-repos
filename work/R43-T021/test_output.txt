@@ -1,0 +1,11 @@
+test_duplicate_record_id_fails (test_pipeline.TestGradePredictionSchemaValidator.test_duplicate_record_id_fails) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestGradePredictionSchemaValidator.test_fixture_exact_dimensions_and_labels) ... ok
+test_malformed_numeric_and_label_fails (test_pipeline.TestGradePredictionSchemaValidator.test_malformed_numeric_and_label_fails) ... ok
+test_missing_record_id_fails (test_pipeline.TestGradePredictionSchemaValidator.test_missing_record_id_fails) ... ok
+test_non_silent_reporting (test_pipeline.TestGradePredictionSchemaValidator.test_non_silent_reporting) ... ok
+test_valid_fixture_passes (test_pipeline.TestGradePredictionSchemaValidator.test_valid_fixture_passes) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK
