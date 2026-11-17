@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "train": [
+      "rec_0",
+      "rec_1",
+      "rec_4",
+      "rec_5"
+    ],
+    "val": [
+      "rec_2",
+      "rec_6"
+    ],
+    "test": [
+      "rec_3",
+      "rec_7"
+    ]
+  },
+  "train_count": 4,
+  "val_count": 2,
+  "test_count": 2
+}
