@@ -1,0 +1,8 @@
+test_bounded_cpu_smoke_run (test_pipeline.TestTransferLearningSmokeRun.test_bounded_cpu_smoke_run) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestTransferLearningSmokeRun.test_fixture_exact_dimensions_and_labels) ... ok
+test_sample_bound_enforced (test_pipeline.TestTransferLearningSmokeRun.test_sample_bound_enforced) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
