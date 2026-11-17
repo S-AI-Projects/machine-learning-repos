@@ -95,6 +95,10 @@ https://github.com/RajKhanke/machine-learning-repos/assets/137288727/d20733aa-3c
 
 4. **View Results**: The script will allow you to predict the estimated cost of health insurance for a person
 
+## Course Checks
+- [R43-T030 Saved Pipeline Interface](course-checks/r43-t030/README.md): Secure JSON model persistence, inference schema validation, and prediction reconstruction check.
+
+
 
 
 
