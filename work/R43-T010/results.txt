@@ -1,0 +1,3 @@
+R43-T010 pipeline verification results
+LinearRegression: slope=2.0, intercept=1.0. Before/after roundtrip agrees within 1e-9.
+Data: synthetic formula fixture. Python: standard library only.
