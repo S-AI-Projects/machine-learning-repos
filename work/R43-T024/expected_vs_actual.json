@@ -1,0 +1,34 @@
+{
+  "classification_verification": {
+    "truth": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "prediction": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "expected_precision": 0.5,
+    "actual_precision": 0.5,
+    "expected_recall": 0.5,
+    "actual_recall": 0.5
+  },
+  "regression_verification": {
+    "truth": [
+      1,
+      2,
+      3
+    ],
+    "prediction": [
+      1,
+      3,
+      2
+    ],
+    "expected_mae": 0.6666666666666666,
+    "actual_mae": 0.6666666666666666
+  }
+}

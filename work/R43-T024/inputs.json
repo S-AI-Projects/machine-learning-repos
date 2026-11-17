@@ -1,0 +1,197 @@
+{
+  "description": "Synthetic 4x4 grayscale image fixture for evaluation metric verification (not MNIST dataset observations)",
+  "schema": [
+    "record_id",
+    "group_id",
+    "image",
+    "label"
+  ],
+  "records": [
+    {
+      "record_id": "img_0",
+      "group_id": "grp_zero",
+      "image": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "label": 0
+    },
+    {
+      "record_id": "img_1",
+      "group_id": "grp_zero",
+      "image": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "label": 0
+    },
+    {
+      "record_id": "img_2",
+      "group_id": "grp_zero",
+      "image": [
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "label": 0
+    },
+    {
+      "record_id": "img_3",
+      "group_id": "grp_diag",
+      "image": [
+        [
+          255,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          255,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          255,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          255
+        ]
+      ],
+      "label": 1
+    },
+    {
+      "record_id": "img_4",
+      "group_id": "grp_diag",
+      "image": [
+        [
+          255,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          255,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          255,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          255
+        ]
+      ],
+      "label": 1
+    },
+    {
+      "record_id": "img_5",
+      "group_id": "grp_diag",
+      "image": [
+        [
+          255,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          255,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          255,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          255
+        ]
+      ],
+      "label": 1
+    }
+  ]
+}

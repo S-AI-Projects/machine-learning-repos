@@ -1,0 +1,10 @@
+test_canonical_classification_metric_contract (test_pipeline.TestEvaluationMetrics.test_canonical_classification_metric_contract) ... ok
+test_canonical_regression_metric_contract (test_pipeline.TestEvaluationMetrics.test_canonical_regression_metric_contract) ... ok
+test_fixture_exact_dimensions_and_structure (test_pipeline.TestEvaluationMetrics.test_fixture_exact_dimensions_and_structure) ... ok
+test_image_fixture_classification_and_metrics (test_pipeline.TestEvaluationMetrics.test_image_fixture_classification_and_metrics) ... ok
+test_zero_denominator_behavior (test_pipeline.TestEvaluationMetrics.test_zero_denominator_behavior) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
