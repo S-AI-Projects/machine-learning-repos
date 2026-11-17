@@ -1,0 +1,4 @@
+R43-T001 pipeline verification results
+All tests passed on synthetic fixture (3 records).
+Data: synthetic, labelled as pipeline verification only.
+Python: standard library only.
