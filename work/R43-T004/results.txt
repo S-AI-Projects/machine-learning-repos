@@ -1,0 +1,3 @@
+R43-T004 pipeline verification results
+Metric check: precision=recall=0.5 for truth=[1,1,0,0]/pred=[1,0,1,0]. Verified.
+Data: synthetic. Python: standard library only.
