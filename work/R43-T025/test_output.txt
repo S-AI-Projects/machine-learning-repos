@@ -1,0 +1,10 @@
+test_contamination_rejections (test_pipeline.TestExplicitPreprocessing.test_contamination_rejections) ... ok
+test_fit_on_train_only (test_pipeline.TestExplicitPreprocessing.test_fit_on_train_only) ... ok
+test_fitting_on_held_out_is_impossible_via_transform (test_pipeline.TestExplicitPreprocessing.test_fitting_on_held_out_is_impossible_via_transform) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestExplicitPreprocessing.test_fixture_exact_dimensions_and_labels) ... ok
+test_output_values_dtype_and_shape (test_pipeline.TestExplicitPreprocessing.test_output_values_dtype_and_shape) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK

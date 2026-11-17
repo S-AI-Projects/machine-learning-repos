@@ -1,0 +1,84 @@
+{
+  "description": "Synthetic classification fixture for explicit preprocessing (not real dataset observations)",
+  "schema": [
+    "record_id",
+    "group_id",
+    "x1",
+    "x2",
+    "label"
+  ],
+  "split_metadata": {
+    "stratified_split": {
+      "train": [
+        "rec_0",
+        "rec_1",
+        "rec_4",
+        "rec_5"
+      ],
+      "test": [
+        "rec_2",
+        "rec_3",
+        "rec_6",
+        "rec_7"
+      ]
+    }
+  },
+  "records": [
+    {
+      "record_id": "rec_0",
+      "group_id": "grp_0",
+      "x1": 0.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "rec_1",
+      "group_id": "grp_0",
+      "x1": 1.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "rec_2",
+      "group_id": "grp_0",
+      "x1": 2.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "rec_3",
+      "group_id": "grp_0",
+      "x1": 3.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "rec_4",
+      "group_id": "grp_1",
+      "x1": 4.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "rec_5",
+      "group_id": "grp_1",
+      "x1": 5.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "rec_6",
+      "group_id": "grp_1",
+      "x1": 6.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "rec_7",
+      "group_id": "grp_1",
+      "x1": 7.0,
+      "x2": 1.0,
+      "label": 1
+    }
+  ]
+}
