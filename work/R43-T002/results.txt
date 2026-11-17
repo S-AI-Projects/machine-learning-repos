@@ -1,0 +1,4 @@
+R43-T002 pipeline verification results
+Split manifest: train=5, val=1, test=2. All disjoint.
+Data: synthetic, labelled as pipeline verification only.
+Python: standard library only.
