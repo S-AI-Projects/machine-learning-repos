@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "task_id": "R43-T042",
+    "description": "Deterministic split manifest fixture for Sentiment Analysis - Dow Jones (DJIA) Stock using News Headlines",
+    "is_synthetic": true,
+    "purpose": "pipeline verification only, not evidence of real-world or clinical performance",
+    "modality": "time_series_text",
+    "split_manifest": {
+      "train": [
+        "t1",
+        "t2",
+        "t3",
+        "t4"
+      ],
+      "val": [
+        "t5"
+      ],
+      "test": [
+        "t6"
+      ]
+    }
+  },
+  "records": [
+    {
+      "record_id": "t1",
+      "text": "red apple",
+      "label": 1,
+      "timestamp": "2026-01-01"
+    },
+    {
+      "record_id": "t2",
+      "text": "green apple",
+      "label": 1,
+      "timestamp": "2026-01-02"
+    },
+    {
+      "record_id": "t3",
+      "text": "blue sky",
+      "label": 0,
+      "timestamp": "2026-01-03"
+    },
+    {
+      "record_id": "t4",
+      "text": "dark sky",
+      "label": 0,
+      "timestamp": "2026-01-04"
+    },
+    {
+      "record_id": "t5",
+      "text": "red fruit",
+      "label": 1,
+      "timestamp": "2026-01-05"
+    },
+    {
+      "record_id": "t6",
+      "text": "blue cloud",
+      "label": 0,
+      "timestamp": "2026-01-06"
+    }
+  ]
+}

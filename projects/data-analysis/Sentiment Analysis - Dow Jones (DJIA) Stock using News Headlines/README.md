@@ -41,3 +41,6 @@ Social Media Monitoring: Track real-time sentiment and predict future public rea
 ## To view More charts in the Analysis 👉 [Sentiment analysis charts](https://github.com/Archi20876/machine-learning-repos/blob/main/Data%20Analysis/Sentiment%20Analysis%20-%20Dow%20Jones%20(DJIA)%20Stock%20using%20News%20Headlines/ChartsForBetterUnderstanding.ipynb)
 
 ## To view the Dataset 👉 [Dataset](https://github.com/Archi20876/machine-learning-repos/blob/main/Data%20Analysis/Sentiment%20Analysis%20-%20Dow%20Jones%20(DJIA)%20Stock%20using%20News%20Headlines/Stock%20Headlines.csv)
+
+## Course Checks
+- [R43-T042 Deterministic Split Manifest](course-checks/r43-t042/README.md)
