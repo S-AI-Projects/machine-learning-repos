@@ -1,0 +1,29 @@
+# Verification Evidence: R43-T043
+
+## Command Run
+`python3 -m unittest discover -s 'projects/data-analysis/Data Analysis of Tech Stocks/course-checks/r43-t043' -p "test_*.py"`
+
+## Results
+- Total Tests: 6
+- Passed: 6
+- Failed: 0
+- Exit Code: 0
+
+## Test Output
+```
+test_baseline_trained_strictly_on_train_data (test_pipeline.TestMajorityClassBaseline.test_baseline_trained_strictly_on_train_data) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestMajorityClassBaseline.test_fixture_exact_dimensions_and_labels) ... ok
+test_majority_updates_with_skewed_training (test_pipeline.TestMajorityClassBaseline.test_majority_updates_with_skewed_training) ... ok
+test_stratified_split_isolation (test_pipeline.TestMajorityClassBaseline.test_stratified_split_isolation) ... ok
+test_synthetic_verification_label (test_pipeline.TestMajorityClassBaseline.test_synthetic_verification_label) ... ok
+test_unfitted_prediction_raises (test_pipeline.TestMajorityClassBaseline.test_unfitted_prediction_raises) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK
+```
+
+## Tool Versions
+- Python: 3.14.7
+- Environment: offline, CPU-only

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "task_id": "R43-T043",
+    "description": "Majority-class baseline fixture for Data Analysis of Tech Stocks",
+    "is_synthetic": true,
+    "purpose": "pipeline verification only, not evidence of real-world or clinical performance",
+    "split_policy": {
+      "strategy": "fixed_stratified",
+      "train_record_ids": [
+        "r1",
+        "r2",
+        "r5",
+        "r6"
+      ],
+      "test_record_ids": [
+        "r3",
+        "r4",
+        "r7",
+        "r8"
+      ]
+    }
+  },
+  "records": [
+    {
+      "record_id": "r1",
+      "group_id": "g1",
+      "x1": 0.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "r2",
+      "group_id": "g1",
+      "x1": 1.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "r3",
+      "group_id": "g2",
+      "x1": 2.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "r4",
+      "group_id": "g2",
+      "x1": 3.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "r5",
+      "group_id": "g3",
+      "x1": 4.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "r6",
+      "group_id": "g3",
+      "x1": 5.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "r7",
+      "group_id": "g4",
+      "x1": 6.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "r8",
+      "group_id": "g4",
+      "x1": 7.0,
+      "x2": 1.0,
+      "label": 1
+    }
+  ]
+}

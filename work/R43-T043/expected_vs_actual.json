@@ -1,0 +1,8 @@
+{
+  "expected_majority_class": 0,
+  "actual_majority_class": 0,
+  "expected_test_accuracy": 0.5,
+  "actual_test_accuracy": 0.5,
+  "train_records_used": 4,
+  "test_records_used": 4
+}
