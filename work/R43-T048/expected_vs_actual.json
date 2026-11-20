@@ -1,0 +1,10 @@
+{
+  "total_samples": 8,
+  "error_count": 1,
+  "correct_count": 7,
+  "injected_record_identified": true,
+  "detailed_rows_count": 1,
+  "reason_summary": {
+    "False Negative: Underprediction near decision boundary": 1
+  }
+}
