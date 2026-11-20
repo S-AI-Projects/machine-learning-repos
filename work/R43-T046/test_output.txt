@@ -1,0 +1,10 @@
+test_exceeding_32_samples_rejected (test_pipeline.TestBoundedCPUSmokeRun.test_exceeding_32_samples_rejected) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestBoundedCPUSmokeRun.test_fixture_exact_dimensions_and_labels) ... ok
+test_prediction_shape_and_range (test_pipeline.TestBoundedCPUSmokeRun.test_prediction_shape_and_range) ... ok
+test_smoke_training_bounds_and_finite_loss (test_pipeline.TestBoundedCPUSmokeRun.test_smoke_training_bounds_and_finite_loss) ... ok
+test_synthetic_verification_label (test_pipeline.TestBoundedCPUSmokeRun.test_synthetic_verification_label) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
