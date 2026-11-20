@@ -1,0 +1,12 @@
+{
+  "classification_canonical": {
+    "expected_precision": 0.5,
+    "actual_precision": 0.5,
+    "expected_recall": 0.5,
+    "actual_recall": 0.5
+  },
+  "regression_canonical": {
+    "expected_mae": 0.6666666666666666,
+    "actual_mae": 0.6666666666666666
+  }
+}

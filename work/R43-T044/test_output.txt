@@ -1,0 +1,11 @@
+test_canonical_classification_precision_recall (test_pipeline.TestEvaluationMetricVerification.test_canonical_classification_precision_recall) ... ok
+test_canonical_regression_mae (test_pipeline.TestEvaluationMetricVerification.test_canonical_regression_mae) ... ok
+test_fixture_exact_dimensions_and_labels (test_pipeline.TestEvaluationMetricVerification.test_fixture_exact_dimensions_and_labels) ... ok
+test_length_mismatch_raises (test_pipeline.TestEvaluationMetricVerification.test_length_mismatch_raises) ... ok
+test_synthetic_verification_label (test_pipeline.TestEvaluationMetricVerification.test_synthetic_verification_label) ... ok
+test_zero_denominator_handling (test_pipeline.TestEvaluationMetricVerification.test_zero_denominator_handling) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK
