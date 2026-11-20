@@ -49,3 +49,6 @@ To customize the data analysis and prediction models, update the configuration f
 
 ## Project Structure
 
+
+## Course Checks
+- [R43-T045 Preprocessing Contract](course-checks/r43-t045/README.md)
