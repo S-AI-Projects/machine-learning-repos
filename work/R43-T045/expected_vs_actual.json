@@ -1,0 +1,23 @@
+{
+  "fitted_parameters": {
+    "x1": {
+      "min": 0.0,
+      "max": 5.0,
+      "scale": 5.0
+    },
+    "x2": {
+      "min": 1.0,
+      "max": 1.0,
+      "scale": 1.0
+    }
+  },
+  "train_transformed_shape": [
+    4,
+    2
+  ],
+  "test_transformed_shape": [
+    4,
+    2
+  ],
+  "leakage_prevented": true
+}
