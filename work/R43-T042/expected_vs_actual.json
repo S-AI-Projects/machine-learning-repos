@@ -1,0 +1,27 @@
+{
+  "expected_train": [
+    "t1",
+    "t2",
+    "t3",
+    "t4"
+  ],
+  "actual_train": [
+    "t1",
+    "t2",
+    "t3",
+    "t4"
+  ],
+  "expected_val": [
+    "t5"
+  ],
+  "actual_val": [
+    "t5"
+  ],
+  "expected_test": [
+    "t6"
+  ],
+  "actual_test": [
+    "t6"
+  ],
+  "splits_disjoint": true
+}
