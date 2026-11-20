@@ -1,0 +1,19 @@
+{
+  "before_and_after_agree": true,
+  "predictions": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1
+  ],
+  "weights": [
+    1.0,
+    0.0
+  ],
+  "bias": -3.5,
+  "interface_version": "1.0.0"
+}
