@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "task_id": "R43-T047",
+    "description": "Reproducible configuration fixture for Retail Price Prediction",
+    "is_synthetic": true,
+    "purpose": "pipeline verification only, not evidence of real-world or clinical performance",
+    "config": {
+      "schema_version": "1.0.0",
+      "seed": 42,
+      "feature_ordering": [
+        "x1",
+        "x2"
+      ],
+      "split_ids": {
+        "train": [
+          "r1",
+          "r2",
+          "r5",
+          "r6"
+        ],
+        "test": [
+          "r3",
+          "r4",
+          "r7",
+          "r8"
+        ]
+      },
+      "algorithm_settings": {
+        "algorithm": "linear_threshold",
+        "threshold": 3.5
+      },
+      "environment_metadata": {
+        "python_version": "3.14.7",
+        "platform": "macOS-27.2.1-arm64-arm-64bit-Mach-O"
+      }
+    }
+  },
+  "records": [
+    {
+      "record_id": "r1",
+      "group_id": "g1",
+      "x1": 0.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "r2",
+      "group_id": "g1",
+      "x1": 1.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "r3",
+      "group_id": "g2",
+      "x1": 2.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "r4",
+      "group_id": "g2",
+      "x1": 3.0,
+      "x2": 1.0,
+      "label": 0
+    },
+    {
+      "record_id": "r5",
+      "group_id": "g3",
+      "x1": 4.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "r6",
+      "group_id": "g3",
+      "x1": 5.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "r7",
+      "group_id": "g4",
+      "x1": 6.0,
+      "x2": 1.0,
+      "label": 1
+    },
+    {
+      "record_id": "r8",
+      "group_id": "g4",
+      "x1": 7.0,
+      "x2": 1.0,
+      "label": 1
+    }
+  ]
+}

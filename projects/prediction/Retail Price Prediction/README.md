@@ -70,3 +70,6 @@ The model is evaluated using the following metrics:
 - **R² Score:** Measures the proportion of variance in the dependent variable that the independent variables explain.
 
 You can also visualize the results using various plots (predicted vs actual prices, error distribution).
+
+## Course Checks
+- [R43-T047 Reproducible Configuration](course-checks/r43-t047/README.md)

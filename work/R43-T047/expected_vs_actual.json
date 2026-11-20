@@ -1,0 +1,18 @@
+{
+  "config_serialized_roundtrip": true,
+  "predictions_match": true,
+  "predictions": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1
+  ],
+  "environment_metadata": {
+    "python_version": "3.14.7",
+    "platform": "macOS-27.2.1-arm64-arm-64bit-Mach-O"
+  }
+}
