@@ -89,3 +89,9 @@ Below are screenshots from `CarParkPos.py` to demonstrate how parking spaces can
 - **Detecting Available Spaces**:
 Detecting available spaces in real-time by analyzing pixel changes in the predefined parking regions to determine occupancy status.
 ![Detecting available spaces](https://github.com/ananas304/machine-learning-repos/blob/main/OpenCV%20Projects/ParkingSpaceDetector/empty%20space%20detection.png)
+
+## Course Checks
+- [R43-T046 Bounded CPU Smoke Run](course-checks/r43-t046/README.md)
+
+## Course Checks
+- [R43-T046 Bounded CPU Smoke Run](course-checks/r43-t046/README.md)
