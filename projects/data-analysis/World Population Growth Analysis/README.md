@@ -69,3 +69,5 @@ The dataset contains the following columns:
 **AUTHOR**
 
 - Created by [@Priyankesh](https://github.com/priyankeshh), GSSoC 2024
+## Course Checks
+- [R43-T044 Metric Correctness](course-checks/r43-t044/README.md)
