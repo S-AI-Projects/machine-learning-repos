@@ -68,3 +68,6 @@ The models are evaluated using the following metrics:
 - This project effectively demonstrates the application of various machine learning techniques to classify stars as exoplanets or non-exoplanets based on their flux data. 
 - The K-Nearest Neighbors (KNN) model emerged as the most accurate classifier, achieving an impressive accuracy of 93%. 
 - This high performance illustrates the potential of machine learning methods in exoplanet detection, enabling more efficient analysis of astronomical data.
+
+## Course Checks
+- [R43-T049 Input Perturbation Robustness](course-checks/r43-t049/README.md)
