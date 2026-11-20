@@ -46,3 +46,6 @@ This project performs a comprehensive data analysis on a dataset of stock inform
 ![image](https://github.com/SanyaB1801/machine-learning-repos/assets/64143038/de3d6339-c2ed-4fd2-9319-e22e53727216)
 ![image](https://github.com/SanyaB1801/machine-learning-repos/assets/64143038/9160100a-e2de-44be-a9a1-620cd87c2166)
 ![image](https://github.com/SanyaB1801/machine-learning-repos/assets/64143038/830a821a-1d05-4cf1-91c2-188267e87ded)
+
+## Course Checks
+- [R43-T043 Minimal Baseline](course-checks/r43-t043/README.md)
